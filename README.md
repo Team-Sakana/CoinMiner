@@ -1,0 +1,2 @@
+# CoinMiner
+nice
