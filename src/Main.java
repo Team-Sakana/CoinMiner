@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello, Wor1d!");
         System.out.println("Hello, Wor2d!");
         System.out.println("Hello, Wor3d!");
+        System.out.println("Hello, Wor4d!");
     }
 }
