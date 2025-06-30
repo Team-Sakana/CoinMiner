@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello, Wor5d!");
         System.out.println("Hello, Wor6d!");
         System.out.println("Hello, Wor7d!");
+        System.out.println("Hello, Wor8d!");
     }
 }
